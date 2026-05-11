@@ -2,13 +2,13 @@
 
 ## Overview
 
-**What is this?** A complete, production-grade **Information Security Management System (ISMS) template suite** for Stark Industries aligned with **ISO/IEC 27001:2022** and **Kenya Data Protection Act 2019 (KDPA 2019)**.
+This is a complete, production-grade **Information Security Management System (ISMS) template suite** built around **Stark Industries** as a fictional, illustrative client. It shows how a managed security team would onboard an organisation to **ISO/IEC 27001:2022** while accounting for **Kenya Data Protection Act 2019 (KDPA 2019)** requirements.
 
-**The problem it solves:** SMEs and mid-market organisations struggle to build compliant ISMS programmes from scratch — policy writing is time-consuming, risk methodologies aren't standardised, and regulatory mapping is fragmented. This suite provides 10 battle-tested templates covering governance, risk, operations, and audit with all controls pre-mapped.
+It is designed to help teams move from a blank page to a usable ISMS faster. The suite gives you a structured way to handle policy writing, risk treatment, control selection, audit readiness, and regulatory mapping in one place instead of piecing everything together ad hoc.
 
-**Who it's for:** Information Security Officers, Compliance Managers, and internal audit teams in Kenya and East Africa who need to implement or audit a formal ISMS. Also useful for MSSPs (Managed Security Services Providers) onboarding new clients.
+It is most useful for Information Security Officers, Compliance Managers, internal audit teams, and MSSPs in Kenya and East Africa that need a clear implementation model or a client-ready onboarding package.
 
-**How to use it:** Start with the Information Security Policy (01), inventory your assets (04), assess risks (02), confirm control applicability (03), then operationalise the remaining policies (05–09). Run your first internal audit using the checklist (10).
+Start with the Information Security Policy (01), then build the asset register (04), complete the risk assessment (02), confirm control applicability in the Statement of Applicability (03), and operationalise the remaining policies (05–09). Use the Internal Audit Checklist (10) once the ISMS is in place.
 
 All 10 documents are built against the **2022 revision** (93 Annex A controls, not the legacy 2013 version), with explicit obligations mapped to **Kenya DPA 2019** throughout.
 
