@@ -1,20 +1,16 @@
 # ISMS Template Suite — ISO/IEC 27001:2022
 
-**Client:** Stark Industries
-**Prepared by:** Michael's Security — Managed Security Services
-**Standard:** ISO/IEC 27001:2022
-**Applicable Regulation:** Kenya Data Protection Act 2019
-**Author:** Michael Ted | ISO/IEC 27001:2022 Lead Auditor (Cert ID: yy8da45yxt, April 2026)
-
----
-
 ## Overview
 
-This repository contains a complete, production-grade **Information Security Management System (ISMS) template suite** aligned with **ISO/IEC 27001:2022**. It is framed as an MSSP client onboarding package — the type of deliverable a Managed Security Services Provider produces when onboarding an SME client onto a managed ISMS programme.
+**What is this?** A complete, production-grade **Information Security Management System (ISMS) template suite** for Stark Industries aligned with **ISO/IEC 27001:2022** and **Kenya Data Protection Act 2019 (KDPA 2019)**.
 
-All 10 documents are built against the **ISO/IEC 27001:2022 revision** (93 Annex A controls, superseding the 2013 version's 114 controls), with explicit obligations mapped to the **Kenya Data Protection Act 2019 (KDPA 2019)** throughout.
+**The problem it solves:** SMEs and mid-market organisations struggle to build compliant ISMS programmes from scratch — policy writing is time-consuming, risk methodologies aren't standardised, and regulatory mapping is fragmented. This suite provides 10 battle-tested templates covering governance, risk, operations, and audit with all controls pre-mapped.
 
-This suite serves as both a **portfolio artifact** demonstrating ISO 27001 Lead Auditor depth and a set of **genuinely usable templates** for any SME operating in Kenya or East Africa.
+**Who it's for:** Information Security Officers, Compliance Managers, and internal audit teams in Kenya and East Africa who need to implement or audit a formal ISMS. Also useful for MSSPs (Managed Security Services Providers) onboarding new clients.
+
+**How to use it:** Start with the Information Security Policy (01), inventory your assets (04), assess risks (02), confirm control applicability (03), then operationalise the remaining policies (05–09). Run your first internal audit using the checklist (10).
+
+All 10 documents are built against the **2022 revision** (93 Annex A controls, not the legacy 2013 version), with explicit obligations mapped to **Kenya DPA 2019** throughout.
 
 ---
 
@@ -41,16 +37,16 @@ isms-suite/
 
 | # | Document | Format | Annex A Controls | Description |
 |---|---|---|---|---|
-| 01 | Information Security Policy | DOCX | 5.1, 5.2 | Master ISMS policy; scope, objectives, roles, classification, legal obligations |
-| 02 | Risk Assessment & Treatment Methodology | DOCX | 6.1.2, 6.1.3, 8.2, 8.3 | Asset-based risk assessment; 5×5 matrix; risk appetite; sample risk register |
-| 03 | Statement of Applicability | XLSX | 6.1.3d | All 93 Annex A controls; inclusion/exclusion status; justifications; implementation status |
-| 04 | Asset Register | XLSX | 5.9, 5.10 | 25 sample assets across 5 categories; classification colour-coding; dropdown validation |
-| 05 | Incident Response Plan | DOCX | 5.24–5.28 | PICERL framework; P1–P4 severity; KDPA 72-hour breach notification; ODPC template |
-| 06 | Access Control Policy | DOCX | 5.15–5.18 | Least privilege; MFA requirements; PAM; NIST SP 800-63B password policy; access reviews |
-| 07 | Business Continuity Plan | DOCX | 5.29, 5.30, 8.8 | RTO/RPO per system; 3-2-1 backup; alternate processing; crisis comms; test schedule |
-| 08 | Supplier Security Policy | DOCX | 5.19–5.22 | 3-tier supplier risk classification; onboarding assessment; contractual clauses; monitoring |
-| 09 | Security Awareness Training Policy | DOCX | 6.3, 7.2, 7.3 | Training matrix; phishing simulation; completion tracking; consequence framework |
-| 10 | Internal Audit Checklist | XLSX | 9.2 | Clauses 4–10 checklist; 50+ audit questions; NC tracker with live COUNTIF summaries |
+| 01 | [Information Security Policy](./01-information-security-policy.docx) | DOCX | 5.1, 5.2 | Master ISMS policy; scope, objectives, roles, classification, legal obligations |
+| 02 | [Risk Assessment & Treatment Methodology](./02-risk-assessment-methodology.docx) | DOCX | 6.1.2, 6.1.3, 8.2, 8.3 | Asset-based risk assessment; 5×5 matrix; risk appetite; sample risk register |
+| 03 | [Statement of Applicability](./03-statement-of-applicability.xlsx) | XLSX | 6.1.3d | All 93 Annex A controls; inclusion/exclusion status; justifications; implementation status |
+| 04 | [Asset Register](./04-asset-register.xlsx) | XLSX | 5.9, 5.10 | 25 sample assets across 5 categories; classification colour-coding; dropdown validation |
+| 05 | [Incident Response Plan](./05-incident-response-plan.docx) | DOCX | 5.24–5.28 | PICERL framework; P1–P4 severity; KDPA 72-hour breach notification; ODPC template |
+| 06 | [Access Control Policy](./06-access-control-policy.docx) | DOCX | 5.15–5.18 | Least privilege; MFA requirements; PAM; NIST SP 800-63B password policy; access reviews |
+| 07 | [Business Continuity Plan](./07-business-continuity-plan.docx) | DOCX | 5.29, 5.30, 8.8 | RTO/RPO per system; 3-2-1 backup; alternate processing; crisis comms; test schedule |
+| 08 | [Supplier Security Policy](./08-supplier-security-policy.docx) | DOCX | 5.19–5.22 | 3-tier supplier risk classification; onboarding assessment; contractual clauses; monitoring |
+| 09 | [Security Awareness Training Policy](./09-security-awareness-training-policy.docx) | DOCX | 6.3, 7.2, 7.3 | Training matrix; phishing simulation; completion tracking; consequence framework |
+| 10 | [Internal Audit Checklist](./10-internal-audit-checklist.xlsx) | XLSX | 9.2 | Clauses 4–10 checklist; 50+ audit questions; NC tracker with live COUNTIF summaries |
 
 ---
 
